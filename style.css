@@ -1,0 +1,21 @@
+
+body {
+    padding-top: 70px; 
+  }
+  
+  .navbar-brand img {
+    height: 30px; 
+  }
+  
+  .overlay-card {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 400px;
+    width: 100%;
+    text-align: center;
+  }
